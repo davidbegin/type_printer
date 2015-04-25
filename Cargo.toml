@@ -1,0 +1,4 @@
+[package]
+name = "type_printer"
+version = "0.0.1"
+authors = ["David Begin <davidmichaelbe@gmail.com>"]
